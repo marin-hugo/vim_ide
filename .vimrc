@@ -15,7 +15,7 @@ set splitbelow		" Always split below
 set mouse=a		" Enable mouse drag on window splits
 
 set background=dark " dark or light
-colorscheme industry " default color scheme's name 
+colorscheme default " default color scheme's name 
 
 
 """""" Vundle Plugin Management """""
