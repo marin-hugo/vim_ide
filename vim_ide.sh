@@ -13,6 +13,6 @@ mkdir -p ~/.vim/bundle
 # install the Vundle plugin manager
 cd ~/.vim/bundle
 git clone https://github.com/VundleVim/Vundle.vim.git Vundle.vim
-cp ./.vimrc ~/.vimrc
+cp .vimrc ~/.vimrc
 
 vim +PluginInstall +qall
